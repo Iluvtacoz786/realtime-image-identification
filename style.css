@@ -1,0 +1,23 @@
+.heading{
+    width:100%;
+    margin-top: 0;
+    font-size: 18px;
+}
+#div1{
+    width:550px;
+    border-radius: 19px;
+    box-shadow:7px 10px 10px gray;
+    margin-bottom: 25px;
+}
+#footer{
+    font-size:19px;
+    background-color:white;
+    position: fixed;
+    bottom:0;
+    width:100%;
+}
+canvas{
+    border-width:3px;
+    border-style:dotted;
+    border-color:black;
+}
